@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Rubelliumm.
-- 🗣️ Usually talks in Python.
-- 👀 I’m interested in Spyware and Hacking.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on Cyber Security.
-- 📫 How to reach me: rubel.me@protonmail.com
+- 🗣️ Usually I speak Python.
+- 👀 Interested in Spyware and Hacking.
+- 🌱 Currently learning java.
+- 💞️ Looking to collaborate on Spyware.
+- 📫 How to reach me: rubel.me@proton.me
 
 <!---
 Rubelliumm/Rubelliumm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

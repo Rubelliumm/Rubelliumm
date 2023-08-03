@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rubelliumm.
 - 🗣️ Usually I speak Python.
-- 👀 Interested in Spyware and Hacking.
+- 👀 Interested in Malware Analysis.
 - 🌱 Currently learning java.
 - 💞️ Looking to collaborate on Spyware.
 - 📫 How to reach me: rubel.me@proton.me
